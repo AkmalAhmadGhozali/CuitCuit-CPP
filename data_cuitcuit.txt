@@ -1,0 +1,38 @@
+7
+10
+graphy baca makan memancing
+zaka makan menonton baca
+mario makan baca bersepedah
+hadiyan baca bersepedah menonton
+yaya makan menulis belajar
+heru bersepedah baca makan
+rozi makan tidur baca
+graphy mario
+mario zaka
+mario rozi
+zaka rozi
+zaka hadiyan
+hadiyan zaka
+heru rozi
+yaya rozi
+yaya heru
+mostfollowed
+insert dolly baca menonton makan
+insert wini memancing baca tidur
+numgrup
+mincuit rozi graphy
+insert bolly baca tidur memancing
+insert biti memancing menonton makan
+insert tini mengembara memancing tidur
+connect dolly bolly
+connect bolly dolly
+connect biti tini
+connect tini wini
+connect biti wini
+connect wini biti
+numgrup
+mostfollowed
+mincuit graphy rozi
+grouptopic
+mincuit zaka rozi
+suggestfriend mario
